@@ -45,9 +45,9 @@ body {
     padding: 1em;
 }
 
-footer {
+#footer {
     text-align: center;
-    background-color: grey;
+    background: grey;
     color: white;
     padding: 0.5em;
     border: 1px solid red;
